@@ -6,15 +6,15 @@
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
   "dependencies": {
-    "react": "16.8.3",
-    "react-native": "0.59.3",
+    "react": "16.8.6",
+    "react-native": "0.59.8",
     "react-native-datetimepicker": "file:../"
   },
   "devDependencies": {
-    "@babel/core": "7.4.3",
-    "@babel/runtime": "7.4.3",
+    "@babel/core": "7.4.4",
+    "@babel/runtime": "7.4.4",
     "babel-plugin-module-resolver": "^3.2.0",
-    "escape-string-regexp": "^1.0.5",
-    "metro-react-native-babel-preset": "0.53.1"
+    "escape-string-regexp": "^2.0.0",
+    "metro-react-native-babel-preset": "^0.54.1"
   }
 }
